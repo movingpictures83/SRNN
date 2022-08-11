@@ -1,0 +1,2 @@
+Prefix plugins/SRNN/example/
+Plugin SRNN inputfile parameters.rnn.txt outputfile output.rnn
